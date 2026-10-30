@@ -58,7 +58,7 @@ No frameworks, external game engines or installation required.
 
 ## 🚀 Play the Game
 
-[**Play JOB QUEST Online**](https://YOUR-USERNAME.github.io/job-quest/)
+[**Play JOB QUEST Online**](https://benedek-github.github.io/job-quest/)
 
 ## 📸 Screenshots
 
