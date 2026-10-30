@@ -96,7 +96,7 @@ for(let i=0;i<14;i++)generate(i*230+500);
 function generate(x){
 const r=Math.random();
 if(r<.52){
-obstacles.push({x,y:425,w:30+Math.random()*28,h:40,type:'rejection'});
+obstacles.push({x,y:385,w:30+Math.random()*28,h:40,type:'rejection'});
 }else if(r<.76){
 items.push({x,y:360-Math.random()*100,type:'cv',taken:false});
 }else{
